@@ -41,6 +41,11 @@ jobs:
           java -version
           echo is Git installed?
           git --version
-          echo result 0f 1+1?
-          expr 1+1
+          echo who is running this script?
+          whoami
+          echo what is the didk load out?
+          df
+          echo what environment variables are avilable?
+          env
+   
         
